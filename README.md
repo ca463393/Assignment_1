@@ -1,2 +1,1 @@
-# programming-assignments
-Object-Oriented Programming assignments
+# Programming Assignment 1
